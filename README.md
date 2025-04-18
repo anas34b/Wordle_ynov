@@ -1,4 +1,4 @@
-# 🎮 Wordle - Console Edition
+# 🎮 Wordle - Console
 
 Ce projet est un jeu **Wordle** développée en Python.
 
